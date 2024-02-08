@@ -1,0 +1,42 @@
+[
+{
+    "model": "testapp.employee",
+    "pk": 1,
+    "fields": {
+        "eno": 101,
+        "ename": "Sairam",
+        "esal": 10000,
+        "eaddr": "Hyd"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 2,
+    "fields": {
+        "eno": 102,
+        "ename": "Ram",
+        "esal": 12000,
+        "eaddr": "Vad"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 3,
+    "fields": {
+        "eno": 103,
+        "ename": "Satish",
+        "esal": 14000,
+        "eaddr": "Mdp"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 4,
+    "fields": {
+        "eno": 104,
+        "ename": "Naruto",
+        "esal": 16000,
+        "eaddr": "God"
+    }
+}
+]
